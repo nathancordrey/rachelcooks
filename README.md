@@ -1,3 +1,3 @@
 # rachelcooks
 cooking blog
-change!
+cd to rachelcooks then npm run dev
